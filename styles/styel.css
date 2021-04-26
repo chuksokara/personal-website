@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ 
+
+body {
+    font-family: 'Open Sans', sans-serif ;
+}
+
+header {
+    text-align: center;
+    margin-top: 20px;
+    }
+
+    .main {
+margin: 20px;
+padding: 10px;
+border-width: 1px 0;
+border-right-color: rgb(136, 60, 60);
+border-style: solid;
+ }
+
+ .main a {
+     padding:  25px;
+     text-decoration: none;
+      text-transform: uppercase;
+      font-size: 12px;
+      color: blue;
+      font-weight: bold;
+ }
+
+ header p {
+     font-style: italic;
+     color: gray;
+     font-size: 13px;
+    } 
+ 
+ main {
+clear: both;
+display: block;
+padding: 10px 70px;
+ }
+ article {
+width: 70%;
+float: left;
+padding: 20px;
+ }
+ article p {
+     color: gray;
+     margin-top: 21px;
+ }
+
+ figure img {
+     width: 400px;
+     height: 250px;
+     margin: 20px 20px 0 0;   
+ }
+ figure {
+   float: left;  
+ }
+ section {
+     margin-top: 40px;
+     clear: both;
+     display: block;
+
+ }
+
+ figcaption {
+     font-size: 12px;
+     font-style: italic;
+     color: gray;
+     margin-bottom: 15px;
+
+ }
+  aside {
+width: 20%;
+padding: 20px;
+text-align: center; 
+float: right                                                                                                            ;
+}
+
+aside img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.social-icons {
+    padding: 0 5px;
+    color: gray;
+    font-size: 12px;
+    }
+
+    .chuks {
+        font-size: 12px;
+        font-weight: bold;
+        margin-bottom: 10px;
+}
+ aside p {
+     font-size: 14px;
+    color: gray;
+ }
+
+ footer {
+     width: 100%;
+     background: #999;
+     display: inline-block;
+     font-size: 12px;
+    
+     color: white;
+}
+footer p {
+    padding: 0 60px;
+}
+.h2 {
+    margin-bottom: 8px;
+}
